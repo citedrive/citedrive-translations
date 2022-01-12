@@ -1,3 +1,3 @@
-# citedrive-translations
+# Translate CiteDrive
 
 .

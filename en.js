@@ -8,7 +8,7 @@ export const english = {
       "Add websites and articles with one click to your project!",
     "button-link-to-extension": "To the chrome store",
   },
-  "legal-notice": "Copyright © CiteDrive ${year}.",
+  "legal-notice": "Copyright © CiteDrive {{year}}.",
   login: {
     name: "Login",
     "label-log-in-to-citedrive": "Log in to CiteDrive",

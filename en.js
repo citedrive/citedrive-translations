@@ -1,5 +1,5 @@
 export const english = {
-  "Please, enter valid credentials.": "Please, enter valid credentials.",
+  "Please, enter valid credentials.": "Please, enter valid credentials!",
 
   "login-template": {
     name: "Login template",

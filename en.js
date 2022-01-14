@@ -32,6 +32,7 @@ export const english = {
     "label-email": "Email",
     "label-password": "Password",
     "link-to-login": "Already have an account? Log In",
+    "message-success": "A Confirmation Email has been sent to your email.",
     "button-sign-up": "Sign Up",
   },
 };

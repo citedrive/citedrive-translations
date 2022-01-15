@@ -1,5 +1,5 @@
 export const english = {
-  
+
   "Please, enter valid credentials.": "Please, enter valid credentials.",
   "A user with that username already exists.":
     "A user with that username already exists.",
@@ -32,6 +32,14 @@ export const english = {
     "label-email": "Email",
     "label-password": "Password",
     "link-to-login": "Already have an account? Log In",
+    
     "button-sign-up": "Sign Up",
+    "error-required" : "Required",
+    "error-must-be-eight-characters-or-more" : "Must be 8 characters or more",
+    "error-one-lowercase-character": "One lowercase character",
+    "error-one-uppercase-character": "One uppercase character",
+    "error-one-number": "One number",
+    "eror-one-special-character": "One special character",
+    "error-invalid-email": "Invalid email",
   },
 };

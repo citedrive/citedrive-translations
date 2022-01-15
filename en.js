@@ -47,4 +47,23 @@ export const english = {
     "warning-one-special-character": "One special character",
     "warning-invalid-email": "Invalid email",
   },
+
+  activate:{
+    "label-please-wait": "Please wait . . .",
+    "error-message":
+  "Error while attempting to verify account. Please try again later.",
+
+
+
+"error-heading": "Error Verifying Account",
+"message-success": "You've successfully verified your account",
+
+"button-proceed-to-login": "Proceed to Login",
+"button-return-to-login": "Return to Login",
+},
+
+
+  aria: {
+    "open": "open"
+  }
 };

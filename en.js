@@ -8,7 +8,7 @@ export const english = {
 
   "legal-notice": "Copyright © CiteDrive {{year}}.",
 
-  
+
   "login-template": {
     name: "Login template",
     "label-extension-heading": "Install the chrome extension.",
@@ -39,12 +39,12 @@ export const english = {
     "message-success": "A Confirmation Email has been sent to your email.",
 
     "button-sign-up": "Sign Up",
-    "error-required" : "Required",
-    "error-must-be-eight-characters-or-more" : "Must be 8 characters or more",
-    "error-one-lowercase-character": "One lowercase character",
-    "error-one-uppercase-character": "One uppercase character",
-    "error-one-number": "One number",
-    "eror-one-special-character": "One special character",
-    "error-invalid-email": "Invalid email",
+    "warning-required" : "Required",
+    "warning-must-be-eight-characters-or-more" : "Must be 8 characters or more",
+    "warning-one-lowercase-character": "One lowercase character",
+    "warning-one-uppercase-character": "One uppercase character",
+    "warning-one-number": "One number",
+    "warning-one-special-character": "One special character",
+    "warning-invalid-email": "Invalid email",
   },
 };

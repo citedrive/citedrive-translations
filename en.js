@@ -32,7 +32,11 @@ export const english = {
     "label-email": "Email",
     "label-password": "Password",
     "link-to-login": "Already have an account? Log In",
+<<<<<<< HEAD
     
+=======
+    "message-success": "A Confirmation Email has been sent to your email.",
+>>>>>>> bbb39231b3abf6c565a2013f597efa128ec2fbe9
     "button-sign-up": "Sign Up",
     "error-required" : "Required",
     "error-must-be-eight-characters-or-more" : "Must be 8 characters or more",

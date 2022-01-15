@@ -16,6 +16,17 @@ export const english = {
     "button-link-to-extension": "To the chrome store",
   },
 
+  yup: {
+
+    "warning-required": "Required",
+    "warning-must-be-eight-characters-or-more": "Must be 8 characters or more",
+    "warning-one-lowercase-character": "One lowercase character",
+    "warning-one-uppercase-character": "One uppercase character",
+    "warning-one-number": "One number",
+    "warning-one-special-character": "One special character",
+    "warning-invalid-email": "Invalid email",
+  },
+
   login: {
     name: "Login",
     "label-log-in-to-citedrive": "Log in to CiteDrive",
@@ -38,13 +49,7 @@ export const english = {
     "message-success": "A Confirmation Email has been sent to your email.",
 
     "button-sign-up": "Sign Up",
-    "warning-required": "Required",
-    "warning-must-be-eight-characters-or-more": "Must be 8 characters or more",
-    "warning-one-lowercase-character": "One lowercase character",
-    "warning-one-uppercase-character": "One uppercase character",
-    "warning-one-number": "One number",
-    "warning-one-special-character": "One special character",
-    "warning-invalid-email": "Invalid email",
+
   },
 
   activate: {
@@ -57,6 +62,10 @@ export const english = {
 
     "button-proceed-to-login": "Proceed to Login",
     "button-return-to-login": "Return to Login",
+  },
+
+  reset:{
+
   },
 
   aria: {

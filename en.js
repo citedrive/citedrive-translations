@@ -65,7 +65,12 @@ export const english = {
   },
 
   reset:{
-
+    "reset.success": "Successfully reset password",
+    "reset.return-login": "Return to Login",
+    "reset.error-message": "Error when setting password. Please try again later.",
+    "reset.login.reset-your-password": "Reset your Password",
+    "reset.login.password" : "Password",
+    "reset.set-password" : "Set Password",
   },
 
   aria: {

@@ -1,13 +1,12 @@
 export const english = {
-
   "Please, enter valid credentials.": "Please, enter valid credentials.",
   "A user with that username already exists.":
     "A user with that username already exists.",
   "A Confirmation Email has been sent to your email.":
     "A Confirmation Email has been sent to your email.",
+  "Invalid token.": "Invalid token.",
 
   "legal-notice": "Copyright © CiteDrive {{year}}.",
-
 
   "login-template": {
     name: "Login template",
@@ -39,8 +38,8 @@ export const english = {
     "message-success": "A Confirmation Email has been sent to your email.",
 
     "button-sign-up": "Sign Up",
-    "warning-required" : "Required",
-    "warning-must-be-eight-characters-or-more" : "Must be 8 characters or more",
+    "warning-required": "Required",
+    "warning-must-be-eight-characters-or-more": "Must be 8 characters or more",
     "warning-one-lowercase-character": "One lowercase character",
     "warning-one-uppercase-character": "One uppercase character",
     "warning-one-number": "One number",
@@ -48,22 +47,19 @@ export const english = {
     "warning-invalid-email": "Invalid email",
   },
 
-  activate:{
+  activate: {
     "label-please-wait": "Please wait . . .",
     "error-message":
-  "Error while attempting to verify account. Please try again later.",
+      "Error while attempting to verify account. Please try again later.",
 
+    "error-heading": "Error Verifying Account",
+    "message-success": "You've successfully verified your account",
 
-
-"error-heading": "Error Verifying Account",
-"message-success": "You've successfully verified your account",
-
-"button-proceed-to-login": "Proceed to Login",
-"button-return-to-login": "Return to Login",
-},
-
+    "button-proceed-to-login": "Proceed to Login",
+    "button-return-to-login": "Return to Login",
+  },
 
   aria: {
-    "open": "open"
-  }
+    open: "open",
+  },
 };

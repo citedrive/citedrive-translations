@@ -73,6 +73,18 @@ export const english = {
     "set-password" : "Set Password",
   },
 
+  loginExtension:{
+
+  },
+
+  passwordSet:{
+
+  },
+  
+  forgotPassword:{
+
+  },
+
   aria: {
     open: "open",
   },

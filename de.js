@@ -1,4 +1,4 @@
-export const english = {
+export const deutsch = {
   "Please, enter valid credentials.": "Please, enter valid credentials.",
   "A user with that username already exists.":
     "A user with that username already exists.",
@@ -9,14 +9,14 @@ export const english = {
   "legal-notice": "Copyright © CiteDrive {{year}}.",
 
   "login-template": {
-    name: "Login template",
+    "name": "Login template",
     "label-extension-heading": "Install the chrome extension.",
     "label-extension-heading-description":
       "Add websites and articles with one click to your project!",
     "button-link-to-extension": "To the chrome store",
   },
 
-  yup: {
+  "yup": {
     "warning-required": "Required",
     "warning-must-be-eight-characters-or-more": "Must be 8 characters or more",
     "warning-one-lowercase-character": "One lowercase character",
@@ -26,16 +26,16 @@ export const english = {
     "warning-invalid-email": "Invalid email",
   },
 
-  login: {
-    name: "Login",
-    "label-log-in-to-citedrive": "Log in to CiteDrive",
-    "label-email": "Email",
-    "label-password": "Password",
-    "label-warning-email": "Invalid email",
-    "label-warning-required": "Required",
-    "link-sign-up-an-account": "Sign up for an account",
-    "link-forgot-password": "Forgot password?",
-    "button-sign-in": "Sign In",
+  "login": {
+    "name": "Login",
+    "label-log-in-to-citedrive": "Anmelden bei CiteDrive",
+    "label-email": "E-Mail",
+    "label-password": "Passwort",
+    "label-warning-email": "Ungültige E-Mail",
+    "label-warning-required": "Erforderlich",
+    "link-sign-up-an-account": "Anmelden für ein Konto",
+    "link-forgot-password": "Passwort vergessen?",
+    "button-sign-in": "Anmelden",
   },
 
   createAccount: {

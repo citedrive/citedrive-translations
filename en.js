@@ -17,7 +17,6 @@ export const english = {
   },
 
   yup: {
-
     "warning-required": "Required",
     "warning-must-be-eight-characters-or-more": "Must be 8 characters or more",
     "warning-one-lowercase-character": "One lowercase character",
@@ -49,7 +48,6 @@ export const english = {
     "message-success": "A Confirmation Email has been sent to your email.",
 
     "button-sign-up": "Sign Up",
-
   },
 
   activate: {
@@ -64,16 +62,16 @@ export const english = {
     "button-return-to-login": "Return to Login",
   },
 
-  reset:{
-    "success": "Successfully reset password",
+  reset: {
+    success: "Successfully reset password",
     "return-login": "Return to Login",
     "error-message": "Error when setting password. Please try again later.",
     "login.reset-your-password": "Reset your Password",
-    "login.password" : "Password",
-    "set-password" : "Set Password",
+    "login.password": "Password",
+    "set-password": "Set Password",
   },
 
-  loginExtension:{
+  loginExtension: {
     name: "Login to Extension",
     "label-log-in-to-citedrive": "Log in to CiteDrive",
     "label-email": "Email",
@@ -85,17 +83,21 @@ export const english = {
     "button-sign-in": "Sign In",
   },
 
-  passwordSet:{
-      "label-successfully-activated": "Successfully activated account",
-      "button-return-to-login": "Return to Login",
-      "error-message": "Error when setting password. Please try again later.",
-      "label-finish-creating-your-account": "Finish Creating Your Account",
-      "label-password": "Password",
-      "button-set-password": "Set Password",
+  passwordSet: {
+    "label-successfully-activated": "Successfully activated account",
+    "button-return-to-login": "Return to Login",
+    "error-message": "Error when setting password. Please try again later.",
+    "label-finish-creating-your-account": "Finish Creating Your Account",
+    "label-password": "Password",
+    "button-set-password": "Set Password",
   },
 
-  forgotPassword:{
-
+  forgotPassword: {
+    loginResetPassword: "Forgot password?",
+    pwSetReturn: "Return to Login",
+    loginResetMessageConfirm: "A recovery link has been sent to your email.",
+    loginEmail: "Email",
+    loginRequestReset: "Request reset",
   },
 
   aria: {

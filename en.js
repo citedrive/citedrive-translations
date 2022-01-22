@@ -97,7 +97,7 @@ export const english = {
     "link-to-login": "Return to Login",
     "success-message": "A recovery link has been sent to your email.",
     "label-email": "Email",
-    loginRequestReset: "Request reset",
+    "button-request-reset": "Request reset",
   },
 
   aria: {

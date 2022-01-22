@@ -86,7 +86,12 @@ export const english = {
   },
 
   passwordSet:{
-
+      "label-successfully-activated": "Successfully activated account",
+      "button-return-to-login": "Return to Login",
+      "error-message": "Error when setting password. Please try again later.",
+      "label-finish-creating-your-account": "Finish Creating Your Account",
+      "label-password": "Password",
+      "button-set-password": "Set Password",
   },
 
   forgotPassword:{

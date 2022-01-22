@@ -74,13 +74,21 @@ export const english = {
   },
 
   loginExtension:{
-
+    name: "Login to Extension",
+    "label-log-in-to-citedrive": "Log in to CiteDrive",
+    "label-email": "Email",
+    "label-password": "Password",
+    "label-warning-email": "Invalid email",
+    "label-warning-required": "Required",
+    "link-sign-up-an-account": "Sign up for an account",
+    "link-forgot-password": "Forgot password?",
+    "button-sign-in": "Sign In",
   },
 
   passwordSet:{
 
   },
-  
+
   forgotPassword:{
 
   },

@@ -93,10 +93,10 @@ export const english = {
   },
 
   forgotPassword: {
-    loginResetPassword: "Forgot password?",
-    pwSetReturn: "Return to Login",
-    loginResetMessageConfirm: "A recovery link has been sent to your email.",
-    loginEmail: "Email",
+    "label-forgot-password": "Forgot password?",
+    "link-to-login": "Return to Login",
+    "success-message": "A recovery link has been sent to your email.",
+    "label-email": "Email",
     loginRequestReset: "Request reset",
   },
 

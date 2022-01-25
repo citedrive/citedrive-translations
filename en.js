@@ -105,7 +105,7 @@ export const english = {
       empty: {
         p1: "No projects available",
         p2: "Click + to create a new project.",
-      }
+      },
     },
     newProject: {
       bibtex: {
@@ -113,9 +113,15 @@ export const english = {
         ariaLabel: "Create a new BibTeX project",
         label: "BibTeX / BibLaTeX",
         modal: {
-
-        }
-
+          formField: {
+            label: "Title",
+            placeholder: "Name your project",
+          },
+          button: {
+            label: "Create new BibTeX project",
+            ariaLabel: "Create new BibTeX project",
+          },
+        },
       },
 
       overleaf: {
@@ -123,11 +129,17 @@ export const english = {
         ariaLabel: "Create a new Overleaf project",
         label: "Overleaf",
         modal: {
-
-        }
-      }
-
-    }
+          formField: {
+            label: "Title",
+            placeholder: "Name your project",
+          },
+          button: {
+            label: "Create new Overleaf project",
+            ariaLabel: "Create new Overleaf project",
+          },
+        },
+      },
+    },
   },
 
   aria: {

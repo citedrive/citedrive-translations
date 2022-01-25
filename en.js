@@ -110,6 +110,7 @@ export const english = {
     newProject: {
       bibtex: {
         title: "Create a new BibTeX project",
+        ariaLabel: "Create a new BibTeX project",
         label: "BibTeX / BibLaTeX",
         modal: {
 
@@ -119,6 +120,7 @@ export const english = {
 
       overleaf: {
         title: "Create a new Overleaf project",
+        ariaLabel: "Create a new Overleaf project",
         label: "Overleaf",
         modal: {
 

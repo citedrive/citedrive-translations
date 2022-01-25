@@ -139,7 +139,28 @@ export const english = {
           },
         },
       },
+      settings: {
+        rename: {
+
+        },
+        delete: {
+
+        },
+
+
+      },
+      topBar:{
+        menu:{
+          
+        }
+      }
     },
+  },
+
+  components:{
+    user:{
+
+    }
   },
 
   aria: {

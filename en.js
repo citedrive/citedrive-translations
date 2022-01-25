@@ -99,6 +99,9 @@ export const english = {
     "label-email": "Email",
     "button-request-reset": "Request reset",
   },
+  projectPage: {
+    
+  },
 
   aria: {
     open: "open",

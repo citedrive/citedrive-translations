@@ -103,18 +103,26 @@ export const english = {
     projectContainer: {
       h2: "Projects",
       empty: {
-        p1: "No text projects yet",
+        p1: "No projects available",
         p2: "Click + to create a new project.",
       }
     },
     newProject: {
       bibtex: {
         title: "Create a new BibTeX project",
+        label: "BibTeX / BibLaTeX",
+        modal: {
+
+        }
 
       },
 
       overleaf: {
-        title: "Create a new Overleaf project"
+        title: "Create a new Overleaf project",
+        label: "Overleaf",
+        modal: {
+
+        }
       }
 
     }

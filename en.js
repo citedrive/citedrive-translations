@@ -104,7 +104,7 @@ export const english = {
       h2: "Projects",
       empty: {
         p1: "No text projects yet",
-        p2: "Click {{<span style={{ color: {{color}} }}>+</span>}} to create a new project.",
+        p2: "Click + to create a new project.",
       }
     },
     newProject: {

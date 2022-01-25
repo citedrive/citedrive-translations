@@ -100,7 +100,24 @@ export const english = {
     "button-request-reset": "Request reset",
   },
   projectPage: {
-    
+    projectContainer: {
+      h2: "Projects",
+      empty: {
+        p1: "No text projects yet",
+        p2: "Click {{<span style={{ color: "#999" }}>+</span>}} to create a new project.",
+      }
+    },
+    newProject: {
+      bibtex: {
+        title: "Create a new BibTeX project",
+
+      },
+
+      overleaf: {
+        title: "Create a new Overleaf project"
+      }
+
+    }
   },
 
   aria: {

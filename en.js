@@ -169,7 +169,7 @@ export const english = {
         news: "News",
         docs: "Docs",
         privacy: "Privacy Policy",
-        term: "Terms and Conditions"",
+        term: "Terms and Conditions",
       },
     },
   },

@@ -1,2 +1,2 @@
-export * from "./en.ts";
-export * from "./de.ts";
+export * from "./en.js";
+export * from "./de.js";

@@ -170,6 +170,7 @@ export const english = {
         docs: "Docs",
         privacy: "Privacy Policy",
         term: "Terms and Conditions",
+        signout: "Sign out",
       },
     },
   },

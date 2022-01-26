@@ -145,32 +145,33 @@ export const english = {
           button: "Rename project",
           placeholder: "New Name",
           description: "",
-
         },
         delete: {
           title: "Delete project",
           button: "Delete project",
-          description: "Are you sure to delete this project? This operation cannot be undone."
+          description:
+            "Are you sure to delete this project? This operation cannot be undone.",
         },
-
-
       },
-      topBar:{
-        menu:{
-
-        }
-      }
     },
   },
 
-  components:{
-    user:{
+  components: {
+    user: {
       title: "Invite users to your project",
-      placeholder: "Start typing an email address, for example: alex@example.com",
+      placeholder:
+        "Start typing an email address, for example: alex@example.com",
       wait: "Wait ...",
-      button: "Invite user"
-
-    }
+      button: "Invite user",
+    },
+    topBar: {
+      menu: {
+        news: "News",
+        docs: "Docs",
+        privacy: "Privacy Policy",
+        term: "Terms and Conditions"",
+      },
+    },
   },
 
   aria: {

@@ -141,17 +141,22 @@ export const english = {
       },
       settings: {
         rename: {
+          title: "",
+          button: "",
+          description: "",
 
         },
         delete: {
-
+          title: "",
+          button: "Delete project",
+          description: "Are you sure to delete this project? This operation cannot be undone."
         },
 
 
       },
       topBar:{
         menu:{
-          
+
         }
       }
     },

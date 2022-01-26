@@ -141,14 +141,14 @@ export const english = {
       },
       settings: {
         rename: {
-          title: "",
-          button: "",
+          title: "Rename project",
+          button: "Rename project",
           placeholder: "New Name",
           description: "",
 
         },
         delete: {
-          title: "",
+          title: "Delete project",
           button: "Delete project",
           description: "Are you sure to delete this project? This operation cannot be undone."
         },

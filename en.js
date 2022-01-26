@@ -143,6 +143,7 @@ export const english = {
         rename: {
           title: "",
           button: "",
+          placeholder: "New Name",
           description: "",
 
         },
@@ -164,7 +165,7 @@ export const english = {
 
   components:{
     user:{
-
+      title: "",
     }
   },
 

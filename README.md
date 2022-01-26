@@ -1,7 +1,5 @@
 # Translate CiteDrive
 
-.
-
 
 ## Status
 

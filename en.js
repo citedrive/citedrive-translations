@@ -165,7 +165,11 @@ export const english = {
 
   components:{
     user:{
-      title: "",
+      title: "Invite users to your project",
+      placeholder: "Start typing an email address, for example: alex@example.com",
+      wait: "Wait ...",
+      button: "Invite user"
+
     }
   },
 

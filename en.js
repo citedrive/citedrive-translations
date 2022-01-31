@@ -108,6 +108,11 @@ export const english = {
       },
     },
     newProject: {
+      option: {
+        rename: "Rename project",
+        user: "Invite collegues",
+        delete: "Delete project"
+      },
       bibtex: {
         title: "Create a new BibTeX project",
         ariaLabel: "Create a new BibTeX project",

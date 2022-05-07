@@ -4,7 +4,7 @@ Join us in translating CiteDrive into your language.
 
 We use the package "react-i18next" for our app and manage translations. This repo consists of JSON files where, for example, en.js contains all labels in English and de.js all in German.
 
-You can see from the status table how far we are with the translations.If you want to change something, you need to take two simple things to heart:
+You can see from the status table how far we are with the translations. If you want to change something, you need to take two simple things to heart:
 
 The JSON file consists of key-value pairs.
 
@@ -34,7 +34,7 @@ So, for example, if we translate it into German:
 
 The application detects these as variables to which a value is dynamically assigned. 
 
-Apart from that, there are other things to consider first. Many thanks for your efforts!
+Apart from that, there is nothing else to consider. Many thanks for your efforts!
 
 ## Status
 
